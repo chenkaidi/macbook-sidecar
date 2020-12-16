@@ -1,6 +1,6 @@
-# macbook-sidecar
+# SideCar 随航
 
-“随航”的系统要求,“随航”要求使用运行 macOS Catalina 或更高版本的兼容 Mac，以及运行 iPadOS 13 或更高版本的兼容 iPad。
+“SideCar”的系统要求,“随航”要求使用运行 macOS Catalina 或更高版本的兼容 Mac，以及运行 iPadOS 13 或更高版本的兼容 iPad。
 
 - 2016 年推出的 MacBook Pro 或更新机型
 - 2016 年推出的 MacBook 或更新机型
